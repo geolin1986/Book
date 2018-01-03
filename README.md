@@ -1,6 +1,6 @@
 # THE BEST BOOK
 
-## >" Perfect for you" - Georgena
+## > " Perfect for you - Georgena"
 
 [Donations Accepted](https://gmail.com)
 
