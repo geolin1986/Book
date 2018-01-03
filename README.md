@@ -1,14 +1,14 @@
 # THE BEST BOOK
 
-## > " Perfect for you" - Georgena
+## >" Perfect for you" - Georgena
 
 [Donations Accepted](https://gmail.com)
 
 ### Table of Contents
 
-* [Chapter 1] (chapter1)
-* [Chapter 2] (chapter2)
-* [Chapter 3] (chapter3)
+* [Chapter 1](chapter1)
+* [Chapter 2](chapter2)
+* [Chapter 3](chapter3)
 
 ### License
 
